@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"
+baseurl: "https://unruffled-heyrovsky-c00f04.netlify.app/"
 title: "Nashville Coding Cats Meetup"
 canonifyurls: true
 theme: "hugo-conference"
