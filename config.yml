@@ -72,22 +72,22 @@ params:
     - name: "Tomy the Cat"
       photo: "/img/tomy.jpeg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Linux Foundation"
+      company: "Nashville Coding Cats"
       link:
-        href: "http://twitter.com/linus"
-        text: "@linus"
+        href: "http://twitter.com/catnip"
+        text: "@catnip"
       presentation:
-        title: "Digging into a Linux Kernel"
+        title: "What cats can contribute to the Nashville coding scene"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "10h00"
 
     - name: "Steve Baskauf"
       photo: "/img/baskauf.jpeg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      company: "Microsoft"
+      company: "Vanderbilt University Libraries"
       link:
-        href: "http://github.com/billy95"
-        text: "@billy95"
+        href: "http://github.com/baskaufs"
+        text: "@baskaufs"
       presentation:
         title: "Introducing Windows 12"
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
