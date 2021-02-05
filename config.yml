@@ -1,5 +1,5 @@
 baseurl: "https://example.org/"
-title: "Conference name"
+title: "Nashville Coding Cats Meetup"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -7,14 +7,14 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Conference name"
-  Description: "Conference description"
-  Date: "November 15"
-  Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Coco Bongo"
-  Address: "Boulevard Kukulcan, 30"
-  City:  "Cancún"
-  State: "Quintana"
+  Name: "Nashville Coding Cats Meetup"
+  Description: "A meetup for all cool cats in Nashville who code"
+  Date: "March 15, 2021"
+  Price: "$5 to cover catnip" # If your event is free, just comment this line
+  Venue: "Nashville Human Society"
+  Address: "1959 21st Ave.N."
+  City:  "Nashville"
+  State: "Tennesset"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
 
@@ -46,8 +46,8 @@ params:
     link: "http://register.example.com"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
-  ForkButton:
-    repository: "https://github.com/jweslley/hugo-conference/"
+  #ForkButton:
+  #  repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
   Sponsors:
@@ -69,8 +69,8 @@ params:
     - name: "Check-in / Breakfast"
       time: "9h00"
 
-    - name: "Linus Torvalds"
-      photo: "/img/speaker.jpg"
+    - name: "Tomy the Cat"
+      photo: "/img/tomy.jpeg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Linux Foundation"
       link:
@@ -81,8 +81,8 @@ params:
         description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
         time: "10h00"
 
-    - name: "Bill Gates"
-      photo: "/img/speaker.jpg"
+    - name: "Steve Baskauf"
+      photo: "/img/baskauf.jpeg"
       bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
       company: "Microsoft"
       link:
